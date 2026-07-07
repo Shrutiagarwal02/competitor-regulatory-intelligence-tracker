@@ -1,18 +1,18 @@
 # Competitor and Regulatory Intelligence Tracker
 
-Research analyst workflow for tracking competitor moves, regulatory changes, source notes and business implications.
+Built by **Shruti Agarwal** (LL.M., Commercial and Corporate Law, Queen Mary University of London) — a market research and regulatory intelligence workflow for tracking competitor moves, regulatory changes, source quality, and business implications, with every item traceable to a source, date, and business impact rating.
 
-## Recruiter Signal
+## Recruiter Signal (Regulatory / Market Intelligence Analyst)
 
-This project shows commercial awareness, regulatory research, structured monitoring, risk flagging and stakeholder-ready reporting.
+This project demonstrates: **market research**, **regulatory intelligence**, **competitive analysis**, **risk assessment**, structured monitoring, source discipline, and stakeholder-ready executive reporting.
 
-It is designed for roles such as:
+Built for roles such as:
 
-- Research Analyst
 - Market Intelligence Analyst
-- Consulting Analyst
+- Regulatory Intelligence Analyst
+- Research Analyst
 - Business Analyst
-- Regulatory Strategy Analyst
+- Competitive Strategy Analyst
 
 ## Inputs
 
@@ -26,7 +26,7 @@ It is designed for roles such as:
 ## Outputs
 
 - Intelligence tracker
-- Priority flags
+- Priority flags (impact and urgency scored)
 - Business impact note
 - Recommended action
 - Weekly digest format
@@ -34,7 +34,7 @@ It is designed for roles such as:
 
 ## Why This Matters
 
-Research and consulting teams need repeatable market-monitoring habits. A useful tracker does not just list news. It records source quality, dates, business impact, urgency, ownership and recommended next action.
+Research and consulting teams need repeatable market monitoring habits, not just a list of news. A useful tracker records source quality, dates, business impact, urgency, ownership, and recommended next action, converting raw signals into decision-ready output, the same discipline underpinning Shruti's regulatory advisory work at Corporate Advisory Group, Dubai/ADGM.
 
 ## Tech Stack
 
@@ -53,10 +53,13 @@ streamlit run app.py
 - CSV upload/download
 - Source-link validation
 - Email-ready weekly digest
-- Category dashboards by competitor, regulation and customer signal
+- Category dashboards by competitor, regulation, and customer signal
 - AI-assisted summary from user-provided source notes only
 
 ## Responsible AI Boundary
 
-The tracker should show source links and dates. It should not treat unsourced claims as facts.
+The tracker displays source links and dates alongside every item. It does not treat unsourced claims as facts, and requires a source before an item can be escalated.
 
+---
+
+Part of a 12-project portfolio spanning legal and business analysis domains: [github.com/Shrutiagarwal02](https://github.com/Shrutiagarwal02)
