@@ -1,6 +1,6 @@
 # Competitor and Regulatory Intelligence Tracker
 
-Built by **Shruti Agarwal** (LL.M., Commercial and Corporate Law, Queen Mary University of London) — a market research and regulatory intelligence workflow for tracking competitor moves, regulatory changes, source quality, and business implications, with every item traceable to a source, date, and business impact rating.
+Built by **Shruti Agarwal** (LL.M., Commercial and Corporate Law, Queen Mary University of London), a market research and regulatory intelligence workflow for tracking competitor moves, regulatory changes, source quality, and business implications, with every item traceable to a source, date, and business impact rating.
 
 ## Recruiter Signal (Regulatory / Market Intelligence Analyst)
 
